@@ -2,7 +2,7 @@
   "name": "netflix-clonee",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pprathamjaiswal.github.io/Netflix-Build",
+  "homepage": "http://pprathamjaiswal.github.com/Netflix-Buildss",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@stripe/stripe-js": "^1.39.0",
